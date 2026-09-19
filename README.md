@@ -159,4 +159,4 @@ This project provides practice with:
 - Summary report generation
 
 # Author
-Tanvi Bramhankar
+Pratik Banarase
